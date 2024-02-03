@@ -1,3 +1,14 @@
 {
-  "editor.fontFamily": "Liga SFMono Nerd Font"
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 1.8,
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "terminal.integrated.fontSize": 16,
+  "symbols.hidesExplorerArrows": false,
+  "workbench.colorTheme": "Dracula",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "symbols",
+  "editor.fontFamily": "ComicShannsMono Nerd Font Mono",
+  "editor.unicodeHighlight.invisibleCharacters": false
 }
